@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ef5cee6f-fa11-4e9b-968f-6673bec99717": {
+      "ProjectGuid": "ef5cee6f-fa11-4e9b-968f-6673bec99717",
+      "DisplayName": "PixelManager",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
